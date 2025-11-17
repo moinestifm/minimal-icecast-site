@@ -25,3 +25,6 @@ const STREAM_URL = "http://yourserver:port/mountpoint";
 
 please dont just steal this.. atleast credit stef or moinesti fm
 
+<img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/dde377d3-177f-493a-ad85-07ce449b30d8" />
+
+
